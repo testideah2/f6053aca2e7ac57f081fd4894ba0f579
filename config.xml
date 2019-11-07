@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.meridian.app"
         versionCode = "10"
-        version     = "1.6.0">
+        version     = "1.7.0">
 
     <name>ТЕСТ. Скалодром г. Рыбинск</name>
 
